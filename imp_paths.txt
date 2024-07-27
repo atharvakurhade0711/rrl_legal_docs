@@ -1,0 +1,5 @@
+ssh prajna@hpc.bits-hyderabad.ac.in
+
+/home/prajna/LegalIE/harsh/Users/Harsh/OneDrive/Desktop/CS_Formal_Proj_Folder_3/LegalIE-master/LegalIE-master/atharva/NLP_Project
+
+sbatch job.sh test /home/prajna/LegalIE/harsh/Users/Harsh/OneDrive/Desktop/CS_Formal_Proj_Folder_3/LegalIE-master/LegalIE-master/atharva/NLP_Project/train_data_f3.json /home/prajna/LegalIE/harsh/Users/Harsh/OneDrive/Desktop/CS_Formal_Proj_Folder_3/LegalIE-master/LegalIE-master/atharva/NLP_Project/bart_model /home/prajna/LegalIE/harsh/Users/Harsh/OneDrive/Desktop/CS_Formal_Proj_Folder_3/LegalIE-master/LegalIE-master/atharva/NLP_Project/test_data_f3.json /home/prajna/LegalIE/harsh/Users/Harsh/OneDrive/Desktop/CS_Formal_Proj_Folder_3/LegalIE-master/LegalIE-master/atharva/NLP_Project/bart_predictions.txt BART
